@@ -1,5 +1,6 @@
 body {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     background-color: #151b29;
@@ -25,7 +26,3 @@ body {
   cursor: pointer;
 }
 
-h6 {
-   padding-top: 4.4em;
-   padding-left: .5em;
-}
