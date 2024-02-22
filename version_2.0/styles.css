@@ -1,0 +1,25 @@
+body {
+    background-color: #151b29;
+    font-family: "Anta", sans-serif;
+}
+
+nav {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding-top: 50px;
+}
+
+.social_box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #c4a349;
+    padding: 30px 40px;
+    margin: 30px;
+}
+
+.socials a {
+    text-decoration: none;
+    color: #c4a349;
+}
