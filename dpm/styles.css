@@ -1,5 +1,7 @@
 body {
-background-color: white;
+background-color: Canvas;
+color: CanvasText;
+color-scheme: light dark;
 font-family: "Times New Roman", Times, serif;
 }
 h1 {
