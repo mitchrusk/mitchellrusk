@@ -1,0 +1,18 @@
+body {
+color: white;
+background-color: black;
+font-family: "Times New Roman", Times, serif;
+}
+h1 {
+   font-weight: 500;
+}
+#aboutme {
+    font-weight: 300;
+}
+#nicknames {
+    font-weight: 300;
+}
+h2 {
+    font-weight: 400;
+    margin-bottom: 0;
+}
